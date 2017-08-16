@@ -1,2 +1,2 @@
 # jstormPeace
-Try to use jstorm.
+Try to use jstorm edit.
